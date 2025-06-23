@@ -49,7 +49,7 @@ const About = () => {
       >
         I'm a skilled software developer with experience in Python,
         TypeScript, and JavaScript. I enjoy frameworks like React, Node.js, 
-        and Three.js, and have use tailwind css as well. I'm a quick learner 
+        and Three.js, and have used Tailwind CSS as well. I'm a quick learner
         and collaborate closely with clients to create efficient, scalable, 
         and user-friendly solutions that solve real-world problems. Let's 
         work together to bring your ideas to life!
